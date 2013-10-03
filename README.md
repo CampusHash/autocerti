@@ -1,7 +1,7 @@
 autocerti
 =========
 
-Python script used at CampusHash to generate certificates for event attendees.
+Python script used at CampusHash to automatically generate certificates for event attendees.
 
 Usage
 =====
